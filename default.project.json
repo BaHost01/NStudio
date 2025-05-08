@@ -1,0 +1,16 @@
+{
+  "name": "TerminalStudioGame",
+  "tree": {
+    "$W": "Workspace",
+    "Services": "ReplicatedStorage/Services",
+    "Handlers": "ReplicatedStorage/Handlers",
+    "Remotes": "ReplicatedStorage/Remotes",
+    "Modules": "ReplicatedStorage/Modules",
+    "Controllers": "ServerScriptService/Controllers",
+    "Plugins": "ServerScriptService/Plugins",
+    "Libraries": "ServerScriptService/Libraries",
+    "Assets": "ReplicatedStorage/Assets",
+    "Scripts": "ServerScriptService/Scripts",
+    "Localscripts": "StarterPlayer/StarterPlayerScripts"
+  }
+}
